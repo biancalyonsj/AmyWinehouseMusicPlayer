@@ -11,8 +11,7 @@ in a ListView. Clicking on an album navigates the user to the list of tracks usi
 A custom class stores information about each album. The purpose of each activity is easy for the user to understand through the UI 
 design and labeling. </p>
 
-<b> For this project, it was not required for the app to play music. To improve my Amy Winehouse music player app, 
-I will add a MediaPlayer class to my project so that clicking on a track will play the song. </b> 
+<b> The goal of this project was to design and layout the structure of a Music Player app. However, to improve my app I will add a MediaPlayer class so that clicking on a track will play the song. </b> 
 
 Core Concepts I learned Completing this Project:
 ----------------------------------------------
